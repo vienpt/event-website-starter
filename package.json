@@ -1,0 +1,21 @@
+{
+  "name": "eventwebsite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --port 9000",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.31"
+  },
+  "devDependencies": {
+    "vite-plugin-md": "^0.11.9",
+    "@vitejs/plugin-vue": "^2.2.4",
+    "@vue/compiler-sfc": "^3.2.31",
+    "autoprefixer": "^10.4.3",
+    "postcss": "^8.4.11",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.6"
+  }
+}
